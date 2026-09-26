@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Chặn Shorts Vĩnh Viễn</string>
+    <string name="accessibility_desc">Chỉ theo dõi ứng dụng YouTube để phát hiện và thoát khỏi giao diện Shorts. Không có quyền Internet và không đọc ứng dụng khác.</string>
+    <string name="accessibility_label">Chặn YouTube Shorts</string>
+</resources>

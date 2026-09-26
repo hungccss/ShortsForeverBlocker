@@ -1,0 +1,1 @@
+This project is complete source code, but the current ChatGPT execution environment did not contain an Android SDK/Gradle Android toolchain and could not download binary build tools. Therefore an installable APK could not be compiled inside this session. The included GitHub Actions workflow or Android Studio can build it directly.
